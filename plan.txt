@@ -1,0 +1,11 @@
+Aim: predict behaviour
+1. find correlation neural data vs behavioural probability
+	neural correlating with each other W10.1.1 (to see which neuron to use)
+	PCA+wavelet
+	compare multivariate regression on the denoised data & on features extracted from dimensionality reduction
+	
+	
+2. find a way to predict behaviour from joint-angles
+	PCA: (ax.plot(pca.components_[0]) shows the features that impact the most -> compare these angles to what seems logical)
+	Wavelet : 
+	regression
