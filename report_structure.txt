@@ -1,0 +1,29 @@
+
+Aim: can we classify behaviour from neural data.
+
+Intoduction:
+c) open questions adresses: 
+- are neurons activating together (do we have single neuron responsible for a specific behaviour/joint angle)?
+- can we predict behaviour from neural activity?
+
+
+method:
+1 preprocessing
+1.1 denoising LORENZO
+1.2 deltaF/F	MATHIAS
+
+results:
+1. Investigate clustering of neurons activity: find neurons that correlate with each other (multiple neurons are responsible) (PCA+clustering+correlation) HILA
+1.1 PCA
+1.2 clustering
+1.3 correlation evaluation (triangle figure)
+
+2. correlation between neurons and ... (rectangle figures)
+2.1 behaviour
+2.2 joint angle
+2.3 compare correlation of neurons clustered before
+
+3. predict behaviour from neuron: multivariate regression
+3.1 using whole data set
+3.2 using specific sets of neurons (sorted neurons from correlation)
+
