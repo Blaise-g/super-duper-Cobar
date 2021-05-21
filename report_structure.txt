@@ -29,5 +29,6 @@ results:
 
 
 ?what didn't work?
+- predicting behaviour directly from neural activity &  directly from joint angles
 improve results:
 - evaluate clustering parameters better
