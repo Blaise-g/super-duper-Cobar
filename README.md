@@ -2,6 +2,8 @@
 
 Team Super-duper
 
+The finalised code can be found in the clean Jupyter Notebook.
+
 30 May 2021
 
 # Abstract
