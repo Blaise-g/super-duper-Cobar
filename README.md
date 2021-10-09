@@ -16,7 +16,9 @@ reasonable enough quality prediction in the case of a binary classification. The
 Team Super-duper
 
 Lorenzo Germini
+
 Mathias Nuris_Souquet
+
 Hila Vardi
 
 Professor: Pavan Ramdya
